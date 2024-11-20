@@ -1,0 +1,219 @@
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+C:\Users\Nasratullah Shafiq\Desktop\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\ \Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\ \Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+H:\ \Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+G:\ \Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+G:\ \Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+G:\ \Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+G:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.Parchase.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+H:\ \Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+H:\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+H:\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Parchase.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+H:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Parchase.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+H:\Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Item.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Item.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Parchase.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+H:\ \Nasratullah Shafiq\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+F:\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+F:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+F:\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\New folder\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\New folder\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe
+H:\New folder\Stock_Management\Stock_Management\bin\Debug\Stock_Management.pdb
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Item.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Parchase.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+H:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+F:\New folder\Stock_Management\Stock_Management\bin\Debug\Stock_Management.exe.config
+F:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
+F:\New folder\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe.config
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.exe
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.pdb
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Customers.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Item.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Login.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Parchase.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+F:\New folder\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe.config
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.exe
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.pdb
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.pdb
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Item.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Login.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Purchase.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe.config
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.exe
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.pdb
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.pdb
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Catagory.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Form1.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Item.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Login.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Purchase.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Vendor.resources
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\RdlCompile.cache
+G:\ \Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\RdlCompile.compiled
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe.config
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.exe
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csprojResolveAssemblyReference.cache
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Category.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Sale.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Vendor.resources
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.dll
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.dll
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.WinForms.pdb
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.WinForms.xml
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.pdb
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.xml
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.pdb
+G:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.xml
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe.config
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.exe
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.pdb
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.pdb
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.dll
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.dll
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.WinForms.pdb
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.WinForms.xml
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.pdb
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.xml
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.pdb
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.xml
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Category.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Item.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Login.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Purchase.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Sale.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Vendor.resources
+H:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.exe
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\Stock_Management.pdb
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.dll
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.dll
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.WinForms.pdb
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.WinForms.xml
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.pdb
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.Wpf.xml
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.pdb
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\bin\Debug\LiveCharts.xml
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Brand.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Category.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Customer.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Item.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Login.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Main_Page.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Purchase.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Sale.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.SignUp.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.Vendor.resources
+F:\Stock\Stock_Management\Stock_Mgt SQL Query\Stock_Management\obj\Debug\Stock_Management.csproj.GenerateResource.Cache
